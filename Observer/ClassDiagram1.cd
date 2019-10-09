@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Observer.AFIPObserver">
+    <Position X="5.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AFIPObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.AlgoObservable">
+    <Position X="3.25" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAEAAAAAAAACAQAAAA=</HashCode>
+      <FileName>AlgoObservable.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="_observers" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Observer.Container">
+    <Position X="1.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAgAAAAA=</HashCode>
+      <FileName>Container.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.EmpresaObserver">
+    <Position X="8.25" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>EmpresaObserver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Observer.ObservadorDeContainers">
+    <Position X="6.5" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObservadorDeContainers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

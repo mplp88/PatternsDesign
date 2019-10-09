@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ChainOfResponsability.Nodo">
+    <Position X="3.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Nodo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ChainOfResponsability.NodoCompuesto">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <AssociationLine Name="Hijo" Type="ChainOfResponsability.Nodo" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.25" Y="3.688" />
+        <Point X="7.625" Y="3.688" />
+        <Point X="7.625" Y="1.624" />
+        <Point X="5.25" Y="1.624" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodoCompuesto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Hijo" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChainOfResponsability.NodoSimple" Collapsed="true">
+    <Position X="2.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NodoSimple.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

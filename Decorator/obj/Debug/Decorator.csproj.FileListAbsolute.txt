@@ -1,0 +1,2 @@
+D:\Fuentes\PatternsDesign\Trunk\PatternsDesign\Decorator\bin\Debug\Decorator.exe.config
+C:\Users\Pon\Desktop\PatternsDesign\Decorator\bin\Debug\Decorator.exe.config

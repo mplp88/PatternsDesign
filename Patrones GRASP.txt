@@ -1,0 +1,1 @@
+ Patrones generales de software para asignación de responsabilidades

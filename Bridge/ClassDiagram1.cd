@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Este es el puente, el campo en una clase que apunta a otra jerarquía y usa lo que necesita de esa jerarquía">
+    <Position X="3.448" Y="1.052" Height="1.083" Width="1.7" />
+  </Comment>
+  <Class Name="Bridge.Celular">
+    <Position X="6.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Celular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.Motorola">
+    <Position X="7.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Motorola.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.Samsung">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Samsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.Telefono">
+    <Position X="8.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Telefono.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.Tablet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tablet.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_chip" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Bridge.Ipad">
+    <Position X="2.25" Y="2.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Ipad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bridge.GalaxyTab">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GalaxyTab.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="El sistema real depende de Domicilio y Persona para ejecutar el Servicio1">
+    <Position X="0.781" Y="3.594" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="El sistema adaptado solo depende de Persona e inventa al voleo un objeto Domicilio para satisfacer al sistema adaptado">
+    <Position X="4.177" Y="2.823" Height="0.781" Width="2.773" />
+  </Comment>
+  <Comment CommentText="El cliente (program) usa un adaptador y solo le manda lo que el adaptador pide, pudiendo usar indirectamente al sistema real">
+    <Position X="8.073" Y="2.917" Height="1.125" Width="1.752" />
+  </Comment>
+  <Class Name="Adapter.AdaptadorSistemaA">
+    <Position X="3.75" Y="1.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AdaptadorSistemaA.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="sys" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Adapter.Domicilio">
+    <Position X="3" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAgAAAAAAAABAAAAAAAAAAAAAAAAAAAABAgA=</HashCode>
+      <FileName>Domicilio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adapter.Persona">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Persona.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adapter.SistemaA">
+    <Position X="1" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SistemaA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Adapter.Program">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

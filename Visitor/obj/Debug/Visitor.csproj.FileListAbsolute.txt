@@ -1,0 +1,7 @@
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\bin\Debug\Visitor.exe
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\Visitor.csprojAssemblyReference.cache
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\Visitor.exe
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\Visitor.pdb

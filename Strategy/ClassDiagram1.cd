@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Strategy.EditorDeTexto">
+    <Position X="2" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAIAAAAAAAAAEA=</HashCode>
+      <FileName>EditorDeTexto.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="g" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Strategy.GuardarComo">
+    <Position X="6" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GuardarComo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy.GuardarHTML">
+    <Position X="4.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GuardarHTML.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Strategy.GuardarPDF">
+    <Position X="7.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>GuardarPDF.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

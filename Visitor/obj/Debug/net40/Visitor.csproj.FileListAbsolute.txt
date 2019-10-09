@@ -1,0 +1,9 @@
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\net40\Visitor.csprojAssemblyReference.cache
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\net40\Visitor.csproj.CoreCompileInputs.cache
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\net40\Visitor.AssemblyInfoInputs.cache
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\net40\Visitor.AssemblyInfo.cs
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\bin\Debug\Visitor.exe.config
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\bin\Debug\Visitor.exe
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\bin\Debug\Visitor.pdb
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\net40\Visitor.exe
+C:\Users\Pon\Desktop\PatternsDesign\Visitor\obj\Debug\net40\Visitor.pdb

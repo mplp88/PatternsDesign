@@ -1,0 +1,5 @@
+C:\Users\Pon\Desktop\PatternsDesign\Iterator\bin\Debug\Iterator.exe.config
+C:\Users\Pon\Desktop\PatternsDesign\Iterator\bin\Debug\Iterator.exe
+C:\Users\Pon\Desktop\PatternsDesign\Iterator\bin\Debug\Iterator.pdb
+C:\Users\Pon\Desktop\PatternsDesign\Iterator\obj\Debug\Iterator.exe
+C:\Users\Pon\Desktop\PatternsDesign\Iterator\obj\Debug\Iterator.pdb
